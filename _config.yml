@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Vinayak Kukreja Skills Journal
+description: This website is my space to document both my existing skills and the new ones I'm learning — a place to continuously update, reflect, and build upon them.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://vinayak-kukreja-dev.github.io
+
+# Required for subpath hosting!
+baseurl: "/skills-journal"
+
+color_scheme: light
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/vinayak-kukreja-dev/just-the-docs-template
