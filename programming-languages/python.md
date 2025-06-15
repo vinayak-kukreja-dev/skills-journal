@@ -26,3 +26,12 @@ nav_order: 2
     print(21)
     print(20 + 1)
     ```
+
+## Variables
+
+We can store data within variables. This can help us with reuse of code.
+
+```python
+first_name = "Vinayak Kukreja"
+print(first_name)
+```
