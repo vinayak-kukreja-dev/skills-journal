@@ -17,6 +17,7 @@ nav_order: 2
 ## Language Coventions
 
 - No `;` needed
+- `snake_case` is recommended
 
 ## Most used functions
 
@@ -30,6 +31,7 @@ nav_order: 2
 ## Variables
 
 - We can store data within variables. This can help us with reuse of code.
+- Variable names can not have spaces, they're continuous strings of characters.
 
 ```python
 first_name = "Vinayak Kukreja"
